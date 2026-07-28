@@ -96,7 +96,7 @@ Resposta (201):
 
 ## Documentação interativa
 
-![swagger-ui](./docs/swagger-ui.png)
+![swagger-ui](C:\Users\souza\OneDrive\Área de Trabalho\java\swagger-ui.png)
 
 ## Testado manualmente via Postman
 
